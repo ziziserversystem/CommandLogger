@@ -1,0 +1,9 @@
+---
+name: CommandLogger
+api: 3.0.0
+main: saisana299\Main
+version: 1.0.2
+description: コマンド履歴を作成します
+author: Saisana299
+load: POSTWORLD
+...
